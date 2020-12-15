@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952562973266",
+    "project_id": "readalrighttest",
+    "storage_bucket": "readalrighttest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952562973266:android:5bdd7e6537227e6ab2bd8b",
+        "android_client_info": {
+          "package_name": "com.example.readalright_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952562973266-s1c5i38m2ojbgu0ndl1qsqi8a24n5skc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhjgE65szx02cKUSmZFulIMohPyXxu-yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952562973266-s1c5i38m2ojbgu0ndl1qsqi8a24n5skc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
